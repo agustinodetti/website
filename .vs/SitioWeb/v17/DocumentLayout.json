@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A519B7D-7A8D-4F3E-8E78-40B1FC106CA9}|SitioWeb\\SitioWeb.csproj|C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\sitioweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A519B7D-7A8D-4F3E-8E78-40B1FC106CA9}|SitioWeb\\SitioWeb.csproj|solutionrelative:sitioweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A519B7D-7A8D-4F3E-8E78-40B1FC106CA9}|SitioWeb\\SitioWeb.csproj|c:\\users\\grios\\desktop\\cursoapi\\sitioweb\\sitioweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A519B7D-7A8D-4F3E-8E78-40B1FC106CA9}|SitioWeb\\SitioWeb.csproj|solutionrelative:sitioweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A519B7D-7A8D-4F3E-8E78-40B1FC106CA9}|SitioWeb\\SitioWeb.csproj|C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\sitioweb\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A519B7D-7A8D-4F3E-8E78-40B1FC106CA9}|SitioWeb\\SitioWeb.csproj|solutionrelative:sitioweb\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\SitioWeb\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "SitioWeb\\Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\SitioWeb\\Clases\\Usuario.cs",
+              "RelativeToolTip": "SitioWeb\\Clases\\Usuario.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:49:01.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\SitioWeb\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "SitioWeb\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\SitioWeb\\Default.aspx.cs",
+              "RelativeToolTip": "SitioWeb\\Default.aspx.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAewNoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:09:54.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\SitioWeb\\Default.aspx",
+              "RelativeDocumentMoniker": "SitioWeb\\Default.aspx",
+              "ToolTip": "C:\\Users\\grios\\Desktop\\CursoAPI\\SitioWeb\\SitioWeb\\Default.aspx",
+              "RelativeToolTip": "SitioWeb\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-19T12:51:10.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
